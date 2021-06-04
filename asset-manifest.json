@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/QuadPay/static/css/main.3d29c7dd.chunk.css",
+    "main.js": "/QuadPay/static/js/main.86859b00.chunk.js",
+    "main.js.map": "/QuadPay/static/js/main.86859b00.chunk.js.map",
+    "runtime-main.js": "/QuadPay/static/js/runtime-main.0973f983.js",
+    "runtime-main.js.map": "/QuadPay/static/js/runtime-main.0973f983.js.map",
+    "static/js/2.6f65e5a6.chunk.js": "/QuadPay/static/js/2.6f65e5a6.chunk.js",
+    "static/js/2.6f65e5a6.chunk.js.map": "/QuadPay/static/js/2.6f65e5a6.chunk.js.map",
+    "static/js/3.9f9159cc.chunk.js": "/QuadPay/static/js/3.9f9159cc.chunk.js",
+    "static/js/3.9f9159cc.chunk.js.map": "/QuadPay/static/js/3.9f9159cc.chunk.js.map",
+    "index.html": "/QuadPay/index.html",
+    "static/css/main.3d29c7dd.chunk.css.map": "/QuadPay/static/css/main.3d29c7dd.chunk.css.map",
+    "static/js/2.6f65e5a6.chunk.js.LICENSE.txt": "/QuadPay/static/js/2.6f65e5a6.chunk.js.LICENSE.txt",
+    "static/media/QuadPayLogo.b5cc3871.svg": "/QuadPay/static/media/QuadPayLogo.b5cc3871.svg",
+    "static/media/QuadPay_Jul_31_WHITE PINK_22_ROMY_4TH-OF-JULY_3245 1.4ad43abe.png": "/QuadPay/static/media/QuadPay_Jul_31_WHITE PINK_22_ROMY_4TH-OF-JULY_3245 1.4ad43abe.png",
+    "static/media/analytics-graph-bar.391ecd32.svg": "/QuadPay/static/media/analytics-graph-bar.391ecd32.svg",
+    "static/media/credit-card-check.4aa6c921.svg": "/QuadPay/static/media/credit-card-check.4aa6c921.svg",
+    "static/media/fireworks-people-watch.34518e7c.svg": "/QuadPay/static/media/fireworks-people-watch.34518e7c.svg",
+    "static/media/multiple-actions-cart.540ce1a6.svg": "/QuadPay/static/media/multiple-actions-cart.540ce1a6.svg",
+    "static/media/shield-check.0650a436.svg": "/QuadPay/static/media/shield-check.0650a436.svg",
+    "static/media/smartphone-pay-dollar.6adeea6b.svg": "/QuadPay/static/media/smartphone-pay-dollar.6adeea6b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0973f983.js",
+    "static/js/2.6f65e5a6.chunk.js",
+    "static/css/main.3d29c7dd.chunk.css",
+    "static/js/main.86859b00.chunk.js"
+  ]
+}
