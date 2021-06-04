@@ -22,6 +22,7 @@ const LogoSvg = styled.img`
     @media (min-width: ${theme.breakpoints.tablet}px) {
       width: 1587.11px;
       height: 1705.07px;
+      left: 239px;
     }
   `}
 `;
