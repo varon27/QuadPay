@@ -46,7 +46,7 @@ const App = () => (
   <Theme>
     <BlockLayout hasBlueBackgroundColor>
       <HeroBlock
-        title="Quadpay anywhere"
+        title="Quadpay anywhere December 2023"
         subTitle="Shop your favorite brands with the Quadpay app—online or in-store."
         logo
         image
